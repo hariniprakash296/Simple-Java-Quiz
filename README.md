@@ -59,7 +59,8 @@ public class QuizTest extends JFrame implements ActionListener{
         label.setBounds (30, 40, 450, 20);
         radioButtons[0].setBounds (50, 80,450, 20);
         radioButtons[1].setBounds (50, 110, 200, 20);
-        radioButtons [2].setBounds (50, 140, 200, 20);
+        radioButtons [2].setBound[Simple Java Quiz.zip](https://github.com/hariniprakash296/Simple-Java-Quiz/files/8948590/Simple.Java.Quiz.zip)
+s (50, 140, 200, 20);
         radioButtons [3].setBounds (50,170, 200, 20);
         btnNext.setBounds (100, 240, 100, 30);
         btnResult.setBounds (270, 240, 100, 30);
