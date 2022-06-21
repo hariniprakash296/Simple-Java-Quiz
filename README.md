@@ -1,6 +1,11 @@
 # Simple-Java-Quiz
 A simple math quiz written in java
 The user is asked to answer 10 very simple math questions and the program validates the user's answers. At the end, it shows the result on how many the user got right
+
+![image](https://user-images.githubusercontent.com/70060391/174791794-41f24c32-4a68-47c8-9a3d-87d0ca0e90ca.png)
+![image](https://user-images.githubusercontent.com/70060391/174791809-fdbd5faf-f3f7-4ebf-a8d9-d997483cd43b.png)
+![image](https://user-images.githubusercontent.com/70060391/174791826-6036f40b-447a-49fa-a852-1689995536cd.png)
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
